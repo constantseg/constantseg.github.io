@@ -1,23 +1,21 @@
-# 👋 Salut, moi c’est Constant Segretain
-
 Bienvenue sur mon book !  
-Je suis étudiant en **Bac Pro SN** et futur **étudiant en BTS SIO** avec une spécialisation en **cybersécurité**.  
+Je suis étudiant en Système et Réseaux.  
 Passionné par l’informatique, les systèmes Linux et les projets électroniques, je partage ici mes réalisations et mes projets personnels.
 
 ---
 
-## 🧠 À propos de moi
+## À propos de moi
 
-- 💻 J’aime tout ce qui touche à la **programmation**, la **sécurité**, et les **systèmes embarqués**.  
-- 🐧 J’utilise principalement **Linux (Arch / Hyprland)**.  
-- 🔐 Mon objectif : devenir **expert en cybersécurité** après mon BTS SIO.  
-- 🧩 J’adore expérimenter des projets concrets, alliant **hardware** et **software**.
+- J’aime tout ce qui touche à la **programmation**, la **sécurité**, et les **systèmes embarqués**.  
+- J’utilise principalement **Linux (Arch / Hyprland)**.  
+- Mon objectif : devenir **expert en cybersécurité** après mon BTS SIO.  
+- J’adore expérimenter des projets concrets, alliant **hardware** et **software**.
 
 ---
 
-## 🚀 Projets
+## Projets
 
-### 🔒 Facilock
+### Facilock
 > Système de verrouillage connecté avec **reconnaissance faciale**, **digicode**, et **notification mobile**.
 
 - Développé sur **Raspberry Pi 5**
@@ -26,33 +24,23 @@ Passionné par l’informatique, les systèmes Linux et les projets électroniqu
 - Notification en cas d’échec de reconnaissance
 - Digicode géré côté Raspberry Pi
 
-🛠️ *Tech utilisées :* Python, OpenCV, GPIO, MQTT, Flask
+*Tech utilisées :* Python, OpenCV, GPIO, MQTT, Flask
 
 ---
 
-### ⚙️ TikTok Game Automatisé
-> Reproduction du jeu TikTok avec **demi-cercles rotatifs** et **billes contrôlées automatiquement**.
 
-- Gestion des moteurs via Arduino
-- Synchronisation des mouvements
-- Mode automatique et manuel
+### Serveur Proxmox Local
+> Hébergement local sur un mini PC pour ma domotique et mes projets.
 
-🛠️ *Tech utilisées :* Arduino, capteurs, servomoteurs, C++
+- Casaos
+- Domotique avec homeassistant et nodred
+- Container Docker
 
----
-
-### 🌐 Mini Serveur Web Local
-> Hébergement local sur Raspberry Pi pour gérer les accès et logs.
-
-- Interface web légère
-- Accès sécurisé par mot de passe
-- Logs d’ouverture et d’échec de reconnaissance
-
-🛠️ *Tech utilisées :* Flask, HTML/CSS, SQLite
+*Tech utilisées :* Flask, HTML/CSS, SQLite
 
 ---
 
-## 🧰 Compétences techniques
+## Compétences techniques
 
 | Domaine | Compétences principales |
 |----------|-------------------------|
@@ -64,19 +52,19 @@ Passionné par l’informatique, les systèmes Linux et les projets électroniqu
 
 ---
 
-## 🎓 Parcours
+## Parcours
 
-- **2025 → 2027** : BTS SIO (option SISR, cybersécurité)
+- **2025 → 2027** : BTS SIO (option SISR)
 - **2022 → 2025** : Bac Pro SN (Systèmes Numériques)
 - **Alternance** dans une entreprise informatique (support, maintenance, sécurité)
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 
-- ✉️ **Mail** : [constant.segretain@example.com](mailto:constant.segretain@example.com)  
-- 💼 **LinkedIn** : [linkedin.com/in/constant-segretain](https://linkedin.com/in/constant-segretain)  
-- 💻 **GitHub** : [github.com/ConstantSegretain](https://github.com/ConstantSegretain)
+- **Mail** : [constantsegretain@gmail.com](mailto:constantsegretain@gmail.com)  
+- **LinkedIn** : [linkedin.com/in/constant-segretain](https://linkedin.com/in/constant-segretain)  
+- **GitHub** : [github.com/ConstantSegretain](https://github.com/ConstantSegretain)
 
 ---
 
@@ -84,5 +72,5 @@ Passionné par l’informatique, les systèmes Linux et les projets électroniqu
 
 ---
 
-🧩 *Ce site est généré automatiquement depuis ce fichier README et hébergé sur [GitHub Pages](https://pages.github.com/).*  
+*Ce site est généré automatiquement depuis ce fichier README et hébergé sur [GitHub Pages](https://pages.github.com/).*  
 Tu peux modifier ce contenu directement depuis l’interface GitHub !
