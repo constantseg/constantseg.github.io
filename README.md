@@ -1,10 +1,10 @@
-Bienvenue sur mon book !  
+👋 Bienvenue sur mon book !  
 Je suis étudiant en Système et Réseaux.  
 Passionné par l’informatique, les systèmes Linux et les projets électroniques, je partage ici mes réalisations et mes projets personnels.
 
 ---
 
-## À propos de moi
+## 🧠 À propos de moi
 
 - J’aime tout ce qui touche à la **programmation**, la **sécurité**, et les **systèmes embarqués**.  
 - J’utilise principalement **Linux (Arch / Hyprland)**.  
@@ -13,9 +13,9 @@ Passionné par l’informatique, les systèmes Linux et les projets électroniqu
 
 ---
 
-## Projets
+## 🚀 Projets
 
-### Facilock
+### 🔒 Facilock
 > Système de verrouillage connecté avec **reconnaissance faciale**, **digicode**, et **notification mobile**.
 
 - Développé sur **Raspberry Pi 5**
@@ -29,7 +29,7 @@ Passionné par l’informatique, les systèmes Linux et les projets électroniqu
 ---
 
 
-### Serveur Proxmox Local
+### 🌐 Serveur Proxmox Local
 > Hébergement local sur un mini PC pour ma domotique et mes projets.
 
 - Casaos
@@ -40,7 +40,7 @@ Passionné par l’informatique, les systèmes Linux et les projets électroniqu
 
 ---
 
-## Compétences techniques
+## 🧰 Compétences techniques
 
 | Domaine | Compétences principales |
 |----------|-------------------------|
@@ -66,9 +66,6 @@ Passionné par l’informatique, les systèmes Linux et les projets électroniqu
 - **LinkedIn** : [linkedin.com/in/constant-segretain](https://linkedin.com/in/constant-segretain)  
 - **GitHub** : [github.com/ConstantSegretain](https://github.com/ConstantSegretain)
 
----
-
-> _“L’informatique n’est pas seulement un outil, c’est un moyen de créer le futur.”_
 
 ---
 
