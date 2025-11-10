@@ -52,7 +52,7 @@ Passionné par l’informatique, les systèmes Linux et les projets électroniqu
 
 ---
 
-## Parcours
+## 🎓 Parcours
 
 - **2025 → 2027** : BTS SIO (option SISR)
 - **2022 → 2025** : Bac Pro SN (Systèmes Numériques)
@@ -60,7 +60,7 @@ Passionné par l’informatique, les systèmes Linux et les projets électroniqu
 
 ---
 
-## Me contacter
+## 📫 Me contacter
 
 - **Mail** : [constantsegretain@gmail.com](mailto:constantsegretain@gmail.com)  
 - **LinkedIn** : [linkedin.com/in/constant-segretain](https://linkedin.com/in/constant-segretain)  
